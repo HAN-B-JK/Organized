@@ -6,3 +6,5 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/Users/hbjk/Desktop/ALL_MINE/organized/src/main/resources/application.yml
+/Users/hbjk/Desktop/ALL_MINE/organized/src/main/resources/application-oauth.yml

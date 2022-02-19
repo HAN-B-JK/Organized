@@ -31,3 +31,6 @@ spring:
             descriptor:
               sql:
                 BasicBinder: TRACE
+
+  profiles:
+    include: oauth
